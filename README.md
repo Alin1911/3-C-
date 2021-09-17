@@ -1,2 +1,2 @@
 # 3-C-
-Protocoale de comunicatii
+Exercitii rezolvate in limbaj C (Protocoale de comunicatii anul 2 ACS)
